@@ -24,7 +24,7 @@
 ## Backend
 - Always use `bun` as the package manager
 - Use `hono` for backend functionality
-- Database: Convex
+- Database: Cloudflare D1
 - Data storage: Cloudflare R2, KV
 
 ## Environment Variables & Types
